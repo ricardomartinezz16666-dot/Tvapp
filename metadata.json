@@ -1,0 +1,6 @@
+{
+  "name": "Facu TV",
+  "description": "Facu TV - Tu televisión en vivo con formato tipo Pluto TV, guía EPG real, películas y series, con modos optimizados para Móvil y Smart TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
